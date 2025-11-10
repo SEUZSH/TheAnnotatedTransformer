@@ -1,1 +1,1 @@
-This is a fucking new project with new bugs.
+This is a ~~fucking~~ new project with new bugs.
