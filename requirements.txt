@@ -5,7 +5,7 @@ numpy==1.26.4
 torch==1.11.0+cu113
 torchdata==0.3.0
 torchtext==0.12
-spacy==3.2
+spacy
 altair==4.1
 jupytext==1.13
 flake8
