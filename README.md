@@ -45,5 +45,3 @@ Feel free to submit issues and pull requests!
 
 ## 📞 Contact
 For questions about model files or project details, please open an issue.
-=======
-This is a ~~fucking~~ new project with new bugs.
